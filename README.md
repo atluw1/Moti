@@ -1,5 +1,5 @@
 # 서비스 홈페이지
-www.mymoti.co.kr
+http://mymoti.co.kr
 
 # 목차
 
